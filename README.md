@@ -52,7 +52,7 @@ TaskMate is a full-stack to-do list application built with Node.js, Express.js, 
 ### Backend (Server-Side):
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Samsingh36/TaskMate-Todo-App-MEAN-Stack
    cd TaskMate
    ```
 2. Install server dependencies:
@@ -96,8 +96,11 @@ TaskMate is a full-stack to-do list application built with Node.js, Express.js, 
    ng test
    ```
 
-## License
-This project is licensed under the MIT License.
-```
+## Copyright
 
-This README covers all the important aspects of the project and is a good start for sharing it on GitHub. Let me know if you need any adjustments!
+© [Year] [Samar Pratap Singh]. All rights reserved.
+
+This project and all its content, including but not limited to code, images, and documentation, are the intellectual property of Samar Pratap Singh. Unauthorized reproduction, modification, distribution, or use of the content without prior written permission is strictly prohibited.
+
+
+
