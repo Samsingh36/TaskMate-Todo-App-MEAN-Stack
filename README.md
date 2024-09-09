@@ -52,47 +52,52 @@ TaskMate is a full-stack to-do list application built with Node.js, Express.js, 
 ### Backend (Server-Side):
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Samsingh36/TaskMate-Todo-App-MEAN-Stack
+   git clone <repository-url>
    cd TaskMate
-Install server dependencies:
-bash
-Copy code
-cd server
-npm install
-Start the backend server:
-bash
-Copy code
-npm start
-Frontend (Client-Side):
-Navigate to the frontend folder:
-bash
-Copy code
-cd ../client
-Install frontend dependencies:
-bash
-Copy code
-npm install
-Run the Angular app:
-bash
-Copy code
-ng serve
-Access the App:
-Open your browser and go to http://localhost:4200 to access TaskMate.
-Testing
-Server-Side (Mocha):
-Run the following command to execute the unit tests:
-bash
-Copy code
-npm test
-Client-Side (Angular Default Testing):
-Run the following command to execute UI unit tests:
-bash
-Copy code
-ng test
-License
+   ```
+2. Install server dependencies:
+   ```bash
+   cd server
+   npm install
+   ```
+3. Start the backend server:
+   ```bash
+   npm start
+   ```
+
+### Frontend (Client-Side):
+1. Navigate to the frontend folder:
+   ```bash
+   cd ../client
+   ```
+2. Install frontend dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the Angular app:
+   ```bash
+   ng serve
+   ```
+
+### Access the App:
+- Open your browser and go to `http://localhost:4200` to access TaskMate.
+
+## Testing
+
+### Server-Side (Mocha):
+1. Run the following command to execute the unit tests:
+   ```bash
+   npm test
+   ```
+
+### Client-Side (Angular Default Testing):
+1. Run the following command to execute UI unit tests:
+   ```bash
+   ng test
+   ```
+
+## License
 This project is licensed under the MIT License.
+```
 
-vbnet
-Copy code
-
-This README covers all the important aspects of the project and is a good start for sharing
+This README covers all the important aspects of the project and is a good start for sharing it on GitHub. Let me know if you need any adjustments!
