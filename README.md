@@ -98,9 +98,7 @@ TaskMate is a full-stack to-do list application built with Node.js, Express.js, 
 
 ## Copyright
 
-© [Year] [Samar Pratap Singh]. All rights reserved.
+© Samar Pratap Singh. All rights reserved.
 
-This project and all its content, including but not limited to code, images, and documentation, are the intellectual property of Samar Pratap Singh. Unauthorized reproduction, modification, distribution, or use of the content without prior written permission is strictly prohibited.
-
-
+This project and all its content, including but not limited to code, images, and documentation, are the intellectual property of Samar Pratap Singh. 
 
